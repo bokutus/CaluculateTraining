@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculate!!</string>
+
+    <!-- スピナー選択肢 -->
+    <string-array name="number_Of_Question">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+
+</resources>
